@@ -261,11 +261,3 @@ python test_backend.py
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
-
-## License
-
-MIT License - feel free to use and modify for your needs.
-
----
-
-Built with ❤️ using Google Gemini AI
