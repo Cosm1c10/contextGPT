@@ -1,4 +1,4 @@
-# Context Clipper 📋
+# Context GPT 📋
 
 An intelligent browser extension that saves interesting web content and makes it queryable with AI. Save text from anywhere on the web and ask questions about your saved clips using Google's Gemini AI.
 
